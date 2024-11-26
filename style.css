@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#title {
+  text-align: center;
+}
+
+.container {
+  background-color:  #111;
+  width: auto;
+  height: auto;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.item {
+  color: antiquewhite;
+}
+
+.price {
+  color : #febe01;
+  font-weight: bold;
+}
+
+.especification {
+  color: antiquewhite;
+}
+
+.especif-bold {
+  font-weight: bold;
+  color: #febe01;
+}
+
+.btn {
+  padding: 20px;
+  background-color: #febe01;
+  border: 1px solid #332200; 
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #332200;
+  cursor: pointer;
+}
